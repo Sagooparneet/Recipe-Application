@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Red Sauce Pasta",
+      "description": "Make delicious and easy Red Sauce Pasta under 30 minutes. Made with pantry staple like fusilli, tomatoes, onions, spices and herbs, this flavorsome Red Pasta is sure to please your family.",
+      "image": "RedPasta.jpeg",
+      "prepTime": "30 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 2,
+      "title": "Biryani",
+      "description": "Make the ultimate Biryani in homestyle and restaurant styles. Biryani is a celebratory rice and meat dish cherished in the Indian sub-continent.",
+      "image": "Biryani.jpg",
+      "prepTime": "90 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Crepes",
+      "description": "These homemade crepes are ultra thin and delicate with the most buttery crisp edges. Easy to make with just a blender and regular skillet, they're ready for your choice of sweet or savory fillings and toppings.",
+      "image": "Crepes.jpg",
+      "prepTime": "25 minutes",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4,
+      "title": "Butter Chicken",
+      "description": "A rich and creamy North Indian curry with tender chicken in a flavorful tomato-based sauce. Perfect with naan or rice.",
+      "image": "https://via.placeholder.com/300x300/FF6B6B/ffffff?text=Butter+Chicken",
+      "prepTime": "45 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Cake",
+      "description": "Moist and decadent chocolate cake with a rich chocolate frosting. Perfect for celebrations or when you need a chocolate fix.",
+      "image": "https://via.placeholder.com/300x300/8B4513/ffffff?text=Chocolate+Cake",
+      "prepTime": "60 minutes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6,
+      "title": "Caesar Salad",
+      "description": "Fresh romaine lettuce with crispy croutons, parmesan cheese, and homemade Caesar dressing. A classic that never gets old.",
+      "image": "https://via.placeholder.com/300x300/90EE90/000000?text=Caesar+Salad",
+      "prepTime": "15 minutes",
+      "difficulty": "Easy"
+    }
+  ]
+}

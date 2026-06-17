@@ -225,3 +225,18 @@ footer {
 
 
 
+
+/* Recipe meta information styling */
+.recipe-meta {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.recipe-meta span {
+    display: inline-block;
+}
